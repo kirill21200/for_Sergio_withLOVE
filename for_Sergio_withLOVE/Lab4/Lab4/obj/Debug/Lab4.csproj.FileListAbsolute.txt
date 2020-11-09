@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\user\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\user\Desktop\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\user\Desktop\Lab4\Lab4\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\Lab4\Lab4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Lab4\Lab4\bin\Debug\taglib-sharp.dll
+C:\Users\user\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete

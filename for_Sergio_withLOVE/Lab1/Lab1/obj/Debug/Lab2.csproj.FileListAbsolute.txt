@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Lab1\Lab1\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Lab1\Lab1\obj\Debug\Lab2.Form1.resources
+C:\Users\user\Desktop\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\user\Desktop\Lab1\Lab1\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Lab1\Lab1\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\user\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\user\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\user\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\user\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\user\Desktop\Lab1\Lab1\obj\Debug\Lab2.Passengers.resources
